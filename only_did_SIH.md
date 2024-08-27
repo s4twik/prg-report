@@ -15,3 +15,4 @@ went through this [playlist](https://www.youtube.com/watch?v=fG7HhqEJbTs&list=PL
 realised muchh later that maybe open vas much be a better option
 
 i'll  continue updating it
+(ps: was doing hardware and design)
